@@ -1,2 +1,3 @@
-# groot_bloom_release
-Release repo for ros bloom'd packages
+# Bloom Release
+
+Release helper for blooming ros packages.
