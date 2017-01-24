@@ -3,8 +3,8 @@ SHELL := /bin/bash
 REPOS="yaml_cpp_0_3"
 SRC_GIT=https://github.com/stonier
 REL_GIT=https://github.com/yujinrobot-release
-TRACK=indigo
-SOURCE_BRANCH=indigo
+TRACK=kinetic
+SOURCE_BRANCH=kinetic
 
 include ../Makefile
 
