@@ -3,8 +3,10 @@ SHELL := /bin/bash
 REPOS="flatbuffers"
 SRC_GIT=https://github.com/stonier
 REL_GIT=https://github.com/yujinrobot-release
-TRACK=indigo
-SOURCE_BRANCH=indigo
+#TRACK=melodic
+#SOURCE_BRANCH=release/1.1-melodic
+TRACK=kinetic
+SOURCE_BRANCH=release/1.1-kinetic
 
 include ../Makefile
 

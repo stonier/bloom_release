@@ -3,8 +3,11 @@ SHELL := /bin/bash
 REPOS="kobuki"
 SRC_GIT=https://github.com/yujinrobot
 REL_GIT=https://github.com/yujinrobot-release
-TRACK=kinetic
-SOURCE_BRANCH=kinetic
+TRACK=melodic
+# kobuki_core
+# SOURCE_BRANCH=melodic
+# kobuki_msgs, kobuki
+SOURCE_BRANCH=release/0.7-melodic
 
 include ../Makefile
 

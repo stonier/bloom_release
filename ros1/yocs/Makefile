@@ -3,8 +3,9 @@ SHELL := /bin/bash
 REPOS="yujin_ocs"
 SRC_GIT=https://github.com/yujinrobot
 REL_GIT=https://github.com/yujinrobot-release
-TRACK=kinetic
-SOURCE_BRANCH=kinetic
+TRACK=melodic
+#SOURCE_BRANCH=release/0.7-melodic
+SOURCE_BRANCH=release/0.8-melodic
 
 include ../Makefile
 
