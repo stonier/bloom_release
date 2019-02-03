@@ -5,7 +5,7 @@ REPOS="py_trees"
 SRC_GIT=https://github.com/stonier
 REL_GIT=https://github.com/stonier
 TRACK=crystal
-SOURCE_BRANCH=release/0.8.x
+SOURCE_BRANCH=release/1.0.x
 #SOURCE_BRANCH=release/0.4.x
 
 include ../Makefile
