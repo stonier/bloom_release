@@ -1,6 +1,6 @@
 SHELL := /bin/bash
 REPOS="py_trees" "py_trees_msgs" "py_trees_ros" "rqt_py_trees"
-SRC_GIT=https://github.com/stonier
+SRC_GIT=https://github.com/splintered-reality
 REL_GIT=https://github.com/stonier
 #TRACK=kinetic
 TRACK=melodic
@@ -10,12 +10,13 @@ TRACK=melodic
 #SOURCE_BRANCH=release/0.3-${TRACK}
 
 # py trees
+REPOS="py_trees"
 #SOURCE_BRANCH=release/0.5-${TRACK}
-#SOURCE_BRANCH=release/0.6-${TRACK}
+SOURCE_BRANCH=release/0.6.x
 
 # py_trees_ros
-REPOS=py_trees_ros
-SOURCE_BRANCH=release/0.5-${TRACK}
+# REPOS=py_trees_ros
+# SOURCE_BRANCH=release/0.5-${TRACK}
 
 # rqt_py_trees
 #REPOS="rqt_py_trees"
