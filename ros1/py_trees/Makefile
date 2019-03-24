@@ -11,12 +11,12 @@ TRACK=kinetic
 
 # py trees
 REPOS="py_trees"
-SOURCE_BRANCH=release/0.5.x
-#SOURCE_BRANCH=release/0.6.x
+SOURCE_BRANCH=release/0.5.x  # kinetic
+#SOURCE_BRANCH=release/0.6.x  # melodic
 
 # py_trees_ros
-# REPOS=py_trees_ros
-# SOURCE_BRANCH=release/0.5-${TRACK}
+REPOS=py_trees_ros
+SOURCE_BRANCH=release/0.5.x
 
 # rqt_py_trees
 #REPOS="rqt_py_trees"
