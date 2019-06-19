@@ -7,7 +7,10 @@ TRACK=dashing
 #REPOS="py_trees"
 #SOURCE_BRANCH=release/1.2.x
 
-REPOS="py_trees_ros_interfaces"
+#REPOS="py_trees_ros_interfaces"
+#SOURCE_BRANCH=release/1.1.x
+
+REPOS="py_trees_ros"
 SOURCE_BRANCH=release/1.1.x
 
 include ../Makefile
