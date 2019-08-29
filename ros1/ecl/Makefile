@@ -7,5 +7,8 @@ TRACK=melodic
 REPOS="ecl_core"
 SOURCE_BRANCH=release/0.62-melodic
 
+REPOS="ecl_tools"
+SOURCE_BRANCH=release/0.61-melodic
+
 include ../Makefile
 
