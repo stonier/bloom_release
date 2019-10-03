@@ -4,11 +4,11 @@ SRC_GIT=https://github.com/splintered-reality
 REL_GIT=https://github.com/stonier
 TRACK=dashing
 
-#REPOS="py_trees"
-#SOURCE_BRANCH=release/1.2.x
+REPOS="py_trees"
+SOURCE_BRANCH=release/1.3.x
 
 #REPOS="py_trees_ros_interfaces"
-#SOURCE_BRANCH=release/1.1.x
+#SOURCE_BRANCH=release/1.2.x
 
 #REPOS="py_trees_ros"
 #SOURCE_BRANCH=release/1.1.x
