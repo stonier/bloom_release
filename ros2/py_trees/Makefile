@@ -16,8 +16,8 @@ SOURCE_BRANCH=release/1.3.x
 #REPOS="py_trees_ros_tutorials"
 #SOURCE_BRANCH=release/1.0.x
 
-REPOS="py_trees_js"
-SOURCE_BRANCH=release/0.5.x
+#REPOS="py_trees_js"
+#SOURCE_BRANCH=release/0.5.x
 
 #REPOS="py_trees_ros_viewer"
 #SOURCE_BRANCH=release/0.1.x
