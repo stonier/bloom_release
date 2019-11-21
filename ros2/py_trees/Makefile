@@ -11,7 +11,7 @@ TRACK=eloquent
 #SOURCE_BRANCH=release/1.2.x
 
 REPOS="py_trees_ros"
-SOURCE_BRANCH=release/1.3.x
+SOURCE_BRANCH=release/2.0.x
 
 #REPOS="py_trees_ros_tutorials"
 #SOURCE_BRANCH=release/1.0.x
