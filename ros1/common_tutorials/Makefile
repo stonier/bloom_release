@@ -3,8 +3,8 @@ SHELL := /bin/bash
 REPOS="common_tutorials"
 SRC_GIT=https://github.com/ros
 REL_GIT=https://github.com/ros-gbp
-TRACK=melodic
-SOURCE_BRANCH=hydro-devel
+TRACK=noetic
+SOURCE_BRANCH=noetic-devel
 
 include ../Makefile
 

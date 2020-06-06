@@ -13,8 +13,11 @@ TRACK=eloquent
 #REPOS="kobuki_ftdi"
 #SOURCE_BRANCH=release/1.0.x
 
-REPOS="kobuki_ros"
-SOURCE_BRANCH=release/1.0.x
+#REPOS="kobuki_ros"
+#SOURCE_BRANCH=release/1.0.x
+
+REPOS="kobuki_firmware"
+SOURCE_BRANCH=release/1.2.x
 
 include ../Makefile
 
