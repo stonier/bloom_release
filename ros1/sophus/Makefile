@@ -3,8 +3,8 @@ SHELL := /bin/bash
 REPOS="sophus"
 SRC_GIT=https://github.com/stonier
 REL_GIT=https://github.com/yujinrobot-release
-TRACK=melodic
-SOURCE_BRANCH=release/1.0.1-melodic
+TRACK=noetic
+SOURCE_BRANCH=release/1.2.x
 
 include ../Makefile
 
