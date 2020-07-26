@@ -7,11 +7,11 @@ TRACK=noetic
 REPOS="ecl_core"
 SOURCE_BRANCH=release/0.62-${TRACK}
 
-REPOS="ecl_tools"
-SOURCE_BRANCH=release/0.61-${TRACK}
+#REPOS="ecl_tools"
+#SOURCE_BRANCH=release/0.61-${TRACK}
 
-REPOS="ecl_lite"
-SOURCE_BRANCH=release/0.61-${TRACK}
+#REPOS="ecl_lite"
+#SOURCE_BRANCH=release/0.61-${TRACK}
 
 
 include ../Makefile
