@@ -11,13 +11,13 @@ TRACK=foxy
 #SOURCE_BRANCH=release/2.0.x
 
 #REPOS="py_trees_ros"
-#SOURCE_BRANCH=release/2.0.x
+#SOURCE_BRANCH=release/2.1.x
 
-#REPOS="py_trees_ros_tutorials"
-#SOURCE_BRANCH=release/2.0.x
+REPOS="py_trees_ros_tutorials"
+SOURCE_BRANCH=release/2.1.x
 
-REPOS="py_trees_js"
-SOURCE_BRANCH=release/0.6.x
+#REPOS="py_trees_js"
+#SOURCE_BRANCH=release/0.6.x
 
 #REPOS="py_trees_ros_viewer"
 #SOURCE_BRANCH=release/0.2.x
